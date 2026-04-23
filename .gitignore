@@ -207,8 +207,12 @@ marimo/_lsp/
 __marimo__/
 
 
+# others
+.DS_Store
+
 
 
 
 # vdb test file 
 test_vdb.ipynb
+example/

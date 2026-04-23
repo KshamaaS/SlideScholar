@@ -135,7 +135,6 @@ class vdb:
         with open(chunks_path, 'r', encoding='utf-8') as f:
             self.chunks = json.load(f)
 
-
     def add_documents(self, chunks, index_type='ivfflat', nlist=100):
         """
         Process a list of chunks, embed them, and add to the index.
@@ -188,7 +187,7 @@ class vdb:
             raise ValueError("Index is not loaded or built.")
             
         # E-02: Add e5 prefixes correctly (query: for queries)
-        query_embedding = self.embed_texts([query], prefix="query: ", batch_size=1, normalize_embeddings=True)
+        query_embedding = self._embed_texts([query], prefix="query: ", batch_size=1, normalize_embeddings=True)
         
         distances, indices = self.index.search(query_embedding, top_k)
         
