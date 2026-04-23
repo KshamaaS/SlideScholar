@@ -163,7 +163,7 @@ class vdb:
                 self.vprint(f"[VDB.add_documents] Warning: Not enough embeddings ({len(embeddings)}) for nlist={nlist}. Falling back to Flat index.")
                 index_type = 'flat'
                 
-            self.build_index(embeddings, index_type=index_type, nlist=nlist)
+            self._build_index(embeddings, index_type=index_type, nlist=nlist)
         else:
             if len(self.chunks) > nlist * 10 and not isinstance(self.index, faiss.IndexFlat):
                 self.vprint(f"[VDB.add_documents] Too many chunks ({len(self.chunks)}). Convert to IVFFlat index to save memory.")
