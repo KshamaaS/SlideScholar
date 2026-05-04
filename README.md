@@ -3,7 +3,6 @@
 **A Multimodal RAG-Based AI Study Assistant for Lecture Slides**
 
 [![Live Demo](https://img.shields.io/badge/🤗_HuggingFace-Live_Demo-blue)](https://huggingface.co/spaces/kshamaasuresh/SlideScholar)
-[![Course](https://img.shields.io/badge/STATGR5293-Spring_2026-teal)](https://github.com/KshamaaS/SlideScholar)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Try it now →** [huggingface.co/spaces/kshamaasuresh/SlideScholar](https://huggingface.co/spaces/kshamaasuresh/SlideScholar)
@@ -79,6 +78,15 @@ Built as the final project for **STATGR5293: Generative AI Using LLMs** (Spring 
 | UI Framework | Gradio (6 tabs) | Web interface with file upload |
 | Deployment | HuggingFace Spaces (CPU + Inference API) | Public demo at zero cost |
 | Dev Environment | Google Colab (A100 GPU) | Model inference, batch processing |
+
+---
+
+## Data
+
+1. Sample lecture slides used for evaluation are available here:
+[Download Slides (Google Drive)](https://drive.google.com/drive/folders/16vd7KXSQ2RpodFWF2Rqq_ET0Gb_jJySD)
+2. Demo Video available here:
+[Demo Video (Google Drive)](https://drive.google.com/file/d/1SPgRckxhk70muZiz1z-lbLS1DsriaF_W/view?usp=drive_link)
 
 ---
 
@@ -301,8 +309,6 @@ Evaluation was performed on a test set of 50 grounded QA pairs derived from actu
 **Faithfulness gap analysis:** When retrieved context is sparse on a topic, Mistral-7B supplements with parametric knowledge. This is expected RAG behavior — faithfulness improves as more lectures are added to the corpus.
 
 **Baseline comparison:** ChatGPT without access to slides scores 0.60 on answer relevance and 0.35 on faithfulness, demonstrating the value of grounded retrieval.
-
-**Note:** The input slides, demo video, presentation with video is stored as a ZIP file as their size was too large to push onto GitHub.
 ---
 
 ## Team
