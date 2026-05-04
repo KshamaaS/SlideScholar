@@ -1,0 +1,17 @@
+{
+  "num_cases": 10,
+  "mode": "study_guide",
+  "k": 8,
+  "hit_rate": 1.0,
+  "retrieval_precision": 0.8375,
+  "retrieval_recall": 0.75,
+  "mrr": 1.0,
+  "bleu1": 0.20362799171220852,
+  "bleu2": 0.1085798595188228,
+  "rouge_l": 0.18880590445309245,
+  "precision": 0.20362799171220852,
+  "recall": 0.3428432651744774,
+  "f1": 0.2523715267414977,
+  "faithfulness": 0.623880588135324,
+  "flashcard_validity": null
+}

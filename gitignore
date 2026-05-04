@@ -1,0 +1,34 @@
+# Large slide files
+Slides_Input/
+*.zip
+
+# Demo video
+*.mp4
+
+# Presentation (over 50MB)
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Model weights (too large for GitHub)
+*.bin
+*.safetensors
+*.gguf
+
+# FAISS index (rebuilt from notebooks)
+*.faiss

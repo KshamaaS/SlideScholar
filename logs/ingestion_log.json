@@ -1,0 +1,92 @@
+{
+  "GR5293_Lecture-1-columbia-Spring2026-sec002.pdf": {
+    "name": "Lecture 1",
+    "lecture_num": 1.0,
+    "num_chunks": 93,
+    "ingested_at": "2026-04-20 00:07:08"
+  },
+  "GR5293_sec002_Lecture-2-columbia-spring-2026.pdf": {
+    "name": "Lecture 2",
+    "lecture_num": 2.0,
+    "num_chunks": 102,
+    "ingested_at": "2026-04-20 00:18:55"
+  },
+  "STAT_GR5293_sec002_Lecture-3-latest-columbia-spring-2026.pdf": {
+    "name": "Lecture 3",
+    "lecture_num": 3.0,
+    "num_chunks": 100,
+    "ingested_at": "2026-04-20 00:31:02"
+  },
+  "STAT_GR5293_sec002_Lecture-4-latest-columbia-spring-2026.pdf": {
+    "name": "Lecture 4",
+    "lecture_num": 4.0,
+    "num_chunks": 109,
+    "ingested_at": "2026-04-20 00:43:45"
+  },
+  "STAT_GR5293_sec002_Lecture-5-latest-columbia-spring-2026.pdf": {
+    "name": "Lecture 5",
+    "lecture_num": 5.0,
+    "num_chunks": 147,
+    "ingested_at": "2026-04-20 01:01:47"
+  },
+  "STAT_GR5293_sec002_Lecture-6-columbia-spring-2026.pdf": {
+    "name": "Lecture 6",
+    "lecture_num": 6.0,
+    "num_chunks": 92,
+    "ingested_at": "2026-04-20 01:13:52"
+  },
+  "STAT_GR5293_sec002_Lecture-7-columbia-spring-2026.pdf": {
+    "name": "Lecture 7",
+    "lecture_num": 7.0,
+    "num_chunks": 101,
+    "ingested_at": "2026-04-20 01:26:52"
+  },
+  "STAT_GR5293_sec002_Lecture-8-columbia-spring-2026.pdf": {
+    "name": "Lecture 8",
+    "lecture_num": 8.0,
+    "num_chunks": 106,
+    "ingested_at": "2026-04-20 01:38:29"
+  },
+  "STAT_GR5293_sec002_Lecture-9-columbia-spring-2026.pdf": {
+    "name": "Lecture 9",
+    "lecture_num": 9.0,
+    "num_chunks": 130,
+    "ingested_at": "2026-04-20 01:53:07"
+  },
+  "STAT_GR5293_sec002_Lecture-10-columbia-spring-2026.pdf": {
+    "name": "Lecture 10",
+    "lecture_num": 10.0,
+    "num_chunks": 149,
+    "ingested_at": "2026-04-20 02:10:59"
+  },
+  "STAT_GR5293_sec002_Lecture-10-part2-columbia-spring-2026.pdf": {
+    "name": "Lecture 10 Part2",
+    "lecture_num": 10.2,
+    "num_chunks": 92,
+    "ingested_at": "2026-04-20 02:23:10"
+  },
+  "STAT_GR5293_sec002_Lecture-11-columbia-spring-2026.pptx": {
+    "name": "Lecture 11",
+    "lecture_num": 11.0,
+    "num_chunks": 39,
+    "ingested_at": "2026-04-20 02:27:02"
+  },
+  "STAT_GR5293_sec002_Lecture-12-columbia-spring-2026.pdf": {
+    "name": "Lecture 12",
+    "lecture_num": 12.0,
+    "num_chunks": 134,
+    "ingested_at": "2026-04-20 02:41:51"
+  },
+  "Dhava_Patel_Slide_Columbia.pptx": {
+    "name": "Dhava Patel Slide",
+    "lecture_num": null,
+    "num_chunks": 37,
+    "ingested_at": "2026-04-20 02:45:21"
+  },
+  "STAT_GR5293_sec002_Lecture-13-columbia-spring-2026.pdf": {
+    "name": "Lecture 13",
+    "lecture_num": 13.0,
+    "num_chunks": 56,
+    "ingested_at": "2026-05-02 22:23:30"
+  }
+}
